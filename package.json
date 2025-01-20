@@ -1,0 +1,17 @@
+{
+    "name": "phaser-superimposed-figures",
+    "version": "1.0.0",
+    "description": "Juego de Figuras Superpuestas utilizando Phaser",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "parcel index.html",
+      "build": "parcel build index.html"
+    },
+    "dependencies": {
+      "phaser": "^3.60.0"
+    },
+    "devDependencies": {
+      "parcel": "^2.8.0"
+    }
+  }
+  
